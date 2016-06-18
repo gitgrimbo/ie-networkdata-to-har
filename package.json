@@ -1,0 +1,27 @@
+{
+  "name": "ie-networkdata-to-har",
+  "version": "1.0.0",
+  "description": "Converts IE NetworkData.xml files to standard HAR files.",
+  "main": "ie-networkdata-to-har.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitgrimbo/ie-networkdata-to-har.git"
+  },
+  "author": {
+    "name": "gitgrimbo",
+    "email": "gitgrimbo@gmail.com",
+    "url": "https://github.com/gitgrimbo"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitgrimbo/ie-networkdata-to-har/issues"
+  },
+  "homepage": "https://github.com/gitgrimbo/ie-networkdata-to-har#readme",
+  "devDependencies": {
+    "xml2js": "^0.4.16"
+  }
+}
